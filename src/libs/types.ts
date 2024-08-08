@@ -24,12 +24,7 @@ interface postonwner {
 
 }export type {postonwner};
 
-interface replies{
-    username:string;
-    userImagePath: string;
-    replyText: string;
-    likeNum: number;
-}
+
 // Do not forget to export properly.
 
 interface ReplyProps {}
